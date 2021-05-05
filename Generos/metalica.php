@@ -3,10 +3,12 @@
     <li>
       <div class="collapsible-header"><i class="material-icons"></i>Metalica</div>
       <div class="collapsible-body"><span>
-      <img src="Recursos/r1.png"/> </span></div>
-
+      <img src="Recursos/r1.png"/>
+      
+      
+      
+       </span></div>
     </li>
-    <img src="Recursos/r1.png"/>
     <li>
       <div class="collapsible-header"><i class="material-icons"></i>The beatles</div>
       <div class="collapsible-body"><span>
