@@ -9,7 +9,7 @@
       <div class="collapsible-body"><span></span></div>
     </li>
     <li>
-      <div class="collapsible-header"><i class="material-icons"></i> Alan Walker   </div>
+      <div class="collapsible-header"><i class="material-icons"></i> Alan Walker</div>
       <div class="collapsible-body"><span></span></div>
     </li>
     <li>
