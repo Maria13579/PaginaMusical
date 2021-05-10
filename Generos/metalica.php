@@ -1,11 +1,10 @@
+
 <body>
 <ul class="collapsible">
     <li>
       <div class="collapsible-header"><i class="material-icons"></i>Metalica</div>
       <div class="collapsible-body"><span>
       <img src="RECURSOS/r1.png"/>
-      
-      
       
        </span></div>
     </li>
