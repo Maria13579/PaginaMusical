@@ -1,4 +1,13 @@
-
+<html>
+    <head>
+      <!--Import Google Icon Font-->
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <!--Import materialize.css-->
+      <link type="text/css" rel="stylesheet" href="Framework/Materialize/css/materialize.min.css"  media="screen,projection"/>
+      <!--Let browser know website is optimized for mobile-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    </head>
+    <body>
       <nav> 
           <div class="nav-wrapper">
             <a href="#" class="brand-logo">Generos Musicales</a>
@@ -43,8 +52,8 @@
                       <td>Cancion 3</td>
                       <td>Master of Puppets</td>
                       <td><a href="https://youtu.be/kV-2Q8QtCY4 ">Escuchar</a></td>
-                  </tr>
-                  <tr>  
+                    </tr>
+                   <tr>  
                       <td>Cancion 4</td>
                       <td>For Whom the Bell Tolls</td>
                       <td><a href="https://www.youtube.com/watch?v=eeqGuaAl6Ic">Escuchar</a></td>
@@ -202,53 +211,55 @@
           <li>
             <div class="collapsible-header"><i class="material-icons"></i>The Rolling Stone  </div>
             <div class="collapsible-body">
-            <img src="RECURSOS/r5.jpg" class="responsive-img"/> 
-            <div class ="container white" style="height:100vh">
-      <table>
-        <thead>
-          <tr>
-            
-            <th>No.Canción</th>
-            <th>Nombre de la Cancion</th>
-            <th>Escucha la cancion</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            
-            <td>Cancion 1</td>
-            <td>Honky tonk women </td>
-            <td><a href="https://www.youtube.com/watch?v=61jfm219ArA">Escuchar</a></td>
-          </tr>
-          <tr>
-            
-            <td>Cancion 2</td>
-            <td>Undercover of the night</td>
-            <td><a href="https://www.youtube.com/watch?v=DVJkfXeTs9Q">Escuchar</a></td>
-          </tr>
-          <tr>
-            
-            <td>Cancion 3</td>
-            <td>Satisfaction</td>
-            <td><a href="https://www.youtube.com/watch?v=nrIPxlFzDi0">Escuchar</a></td>
-          </tr>
-          <tr>
-          
-            <td>Cancion 4</td>
-            <td>Mothers little helper</td>
-            <td><a href="https://www.youtube.com/watch?v=OusADDs_3ps">Escuchar</a></td>
-          </tr>
-          <tr>
-            <td>Cancion 5</td>
-            <td>Emotional Rescue </td>
-            <td><a href="https://www.youtube.com/watch?v=9iw_BE_X9sA">Escuchar</a></td>
-          </tr>
-        </tbody>
-        </table>
-        </div>
-        </span></div>
-            </li>
-             
-          </ul>
+              <img src="RECURSOS/r5.jpg" class="responsive-img"/> 
+             <div class ="container white" style="height:100vh">
+               <table>
+                 <thead>
+                    <tr>
+                      <th>No.Canción</th>
+                      <th>Nombre de la Cancion</th>
+                      <th>Escucha la cancion</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td>Cancion 1</td>
+                      <td>Honky tonk women </td>
+                      <td><a href="https://www.youtube.com/watch?v=61jfm219ArA">Escuchar</a></td>
+                    </tr>
+                    <tr>
+                      <td>Cancion 2</td>
+                      <td>Undercover of the night</td>
+                      <td><a href="https://www.youtube.com/watch?v=DVJkfXeTs9Q">Escuchar</a></td>
+                    </tr>
+                    <tr>
+                      <td>Cancion 3</td>
+                      <td>Satisfaction</td>
+                      <td><a href="https://www.youtube.com/watch?v=nrIPxlFzDi0">Escuchar</a></td>
+                    </tr>
+                    <tr>    
+                      <td>Cancion 4</td>
+                      <td>Mothers little helper</td>
+                      <td><a href="https://www.youtube.com/watch?v=OusADDs_3ps">Escuchar</a></td>
+                    </tr>
+                    <tr>
+                      <td>Cancion 5</td>
+                      <td>Emotional Rescue </td>
+                      <td><a href="https://www.youtube.com/watch?v=9iw_BE_X9sA">Escuchar</a></td>
+                    </tr>
+                 </tbody>
+                </table>
+             </div>
+            </div>
+          </li>
+       </ul>
+            <!--JavaScript at end of body for optimized loading-->
+      <script type="text/javascript" src="Framework/Materialize/js/materialize.min.js"></script>
+    </body>
+  </html>
+
+
+      
+    
        
         
