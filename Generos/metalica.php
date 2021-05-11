@@ -16,9 +16,9 @@
           <li>
             <div class="collapsible-header"><i class="material-icons"></i>Metalica</div>
             <div class="collapsible-body">
-              <img src="RECURSOS/r1.jpg"class="responsive-img"/>
+              <img src="RECURSOS/r1.jpg"class="responsive-img" class="left"/>
               <div class ="container white" style="height:100vh">
-                <table>
+                <table class = "right">
                   <thead>
                     <tr>
                       
