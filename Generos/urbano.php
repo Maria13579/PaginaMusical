@@ -219,7 +219,7 @@
           </li>
           <li>
             <div class="collapsible-header"><i class="material-icons"></i>Don Omar </div>
-            <div class="collapsible-body"><span>
+            <div class="collapsible-body">
               <div class ="container white" style="height:100vh">
                 <table>
                   <thead>

@@ -1,9 +1,10 @@
+
 <html>
     <head>
       <!--Import Google Icon Font-->
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
       <!--Import materialize.css-->
-      <link type="text/css" rel="stylesheet" href="Framework/Materialize/css/materialize.min.css"  media="screen,projection"/>
+      <link type="text/css" rel="stylesheet" href="../Framework/Materialize/css/materialize.min.css"  media="screen,projection"/>
       <!--Let browser know website is optimized for mobile-->
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     </head>
@@ -253,8 +254,29 @@
             </div>
           </li>
        </ul>
+       <ul class="collapsible">
+    <li>
+      <div class="collapsible-header"><i class="material-icons">filter_drama</i>First</div>
+      <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header"><i class="material-icons">place</i>Second</div>
+      <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header"><i class="material-icons">whatshot</i>Third</div>
+      <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+    </li>
+  </ul>
+  <script type="text/javascript">
+       $(document).ready(function(){
+    $('.collapsible').collapsible();
+  });
+  
+
+  </script>
             <!--JavaScript at end of body for optimized loading-->
-      <script type="text/javascript" src="Framework/Materialize/js/materialize.min.js"></script>
+      <script type="text/javascript" src="../Framework/Materialize/js/materialize.min.js"></script>
     </body>
   </html>
 

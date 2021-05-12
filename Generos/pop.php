@@ -90,82 +90,82 @@
                     <td>Cancion 1</td>
                     <td>Good is a woman</td>
                     <td><a href="https://www.youtube.com/watch?v=kHLHSlExFis">Escuchar</a></td>
-              </tr>
+                   </tr>
                   <tr>
                     
                     <td>Cancion 2</td>
                     <td>Thank U next</td>
                     <td><a href="https://www.youtube.com/watch?v=gl1aHhXnN1k">Escuchar</a></td>
-              </tr>
+                  </tr>
                   <tr>
                     
                     <td>Cancion 3</td>
                     <td>7 Rings</td>
                     <td><a href="https://www.youtube.com/watch?v=QYh6mYIJG2Y">Escuchar</a></td>
-              </tr>
+                 </tr>
                   <tr>
                   
                     <td>Cancion 4</td>
                     <td>Bang bang</td>
                     <td><a href="https://www.youtube.com/watch?v=0HDdjwpPM3Y">Escuchar</a></td>
-              </tr>
+                 </tr>
                   <tr>
                   
                     <td>Cancion 5</td>
                     <td>Side to side</td>
                     <td><a href="https://www.youtube.com/watch?v=SXiSVQZLje8">Escuchar</a></td>
-              </tr>
-    </tbody>
-    </table>
-    </div>
-          </span></div>
+                  </tr>
+               </tbody>
+              </table>
+            </div>
+          </div>
         </li>
         <li>
           <div class="collapsible-header"><i class="material-icons"></i>Justin Bieber    </div>
-          <div class="collapsible-body"><span>
-          <div class ="container white" style="height:100vh">
-    <table>
-      <thead>
-        <tr>
-          
-          <th>No.Canción</th>
-          <th>Nombre de la Cancion</th>
-          <th>Escucha la cancion</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          
-          <td>Cancion 1</td>
-          <td>Baby</td>
-          <td><a href="https://www.youtube.com/watch?v=kffacxfA7G4">Escuchar</a></td>
-    </tr>
-        <tr>
-          
-          <td>Cancion 2</td>
-          <td>Sorry</td>
-          <td><a href="https://www.youtube.com/watch?v=fRh_vgS2dFE">Escuchar</a></td>
-    </tr>
-        <tr>
-          
-          <td>Cancion 3</td>
-          <td>Love yourselfl</td>
-          <td><a href="https://www.youtube.com/watch?v=oyEuk8j8imI">Escuchar</a></td>
-    </tr>
-        <tr>
-        
-          <td>Cancion 4</td>
-          <td>Peaches</td>
-          <td><a href="https://www.youtube.com/watch?v=tQ0yjYUFKAE">Escuchar</a></td>
-    </tr>
-        <tr>
-        
-          <td>Cancion 5</td>
-          <td>What do you mean</td>
-          <td><a href="https://www.youtube.com/watch?v=DK_0jXPuIr0">Escuchar</a></td>
-    </tr>
-    </tbody>
-    </table>
+          <div class="collapsible-body">
+           <div class ="container white" style="height:100vh">
+              <table>
+                <thead>
+                  <tr>
+                    
+                    <th>No.Canción</th>
+                    <th>Nombre de la Cancion</th>
+                    <th>Escucha la cancion</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    
+                    <td>Cancion 1</td>
+                    <td>Baby</td>
+                    <td><a href="https://www.youtube.com/watch?v=kffacxfA7G4">Escuchar</a></td>
+                 </tr>
+                  <tr>
+                  
+                    <td>Cancion 2</td>
+                    <td>Sorry</td>
+                    <td><a href="https://www.youtube.com/watch?v=fRh_vgS2dFE">Escuchar</a></td>
+                  </tr>
+                  <tr>
+                  
+                  <td>Cancion 3</td>
+                  <td>Love yourselfl</td>
+                  <td><a href="https://www.youtube.com/watch?v=oyEuk8j8imI">Escuchar</a></td>
+               </tr>
+                <tr>
+                
+                  <td>Cancion 4</td>
+                  <td>Peaches</td>
+                  <td><a href="https://www.youtube.com/watch?v=tQ0yjYUFKAE">Escuchar</a></td>
+                </tr>
+                <tr>
+              
+                  <td>Cancion 5</td>
+                  <td>What do you mean</td>
+                  <td><a href="https://www.youtube.com/watch?v=DK_0jXPuIr0">Escuchar</a></td> 
+                </tr>
+             </tbody>
+              </table>
     </div>
           </span></div>
         </li>
