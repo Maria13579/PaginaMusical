@@ -1,13 +1,15 @@
+<!DOCTYPE html>
 <html>
-  <head>
-   <!--Import Google Icon Font-->
-   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <!--Import materialize.css-->
-    <link type="text/css" rel="stylesheet" href="../Framework/Materialize/css/materialize.min.css"  media="screen,projection"/>
-    <!--Let browser know website is optimized for mobile-->
-   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  </head>
- <body>
+    <head>
+      <!--Import Google Icon Font-->
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">     
+      <!--Let browser know website is optimized for mobile-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+     <!-- Compiled and minified CSS -->
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css">
+
+    </head>
+    <body>
    <nav> 
     <div class="nav-wrapper">
      <a href="#" class="brand-logo">Generos Musicales</a>
@@ -21,7 +23,8 @@
       </ul>
       </div>
    </nav>
-   <ul class="collapsible" data-collapsible="accordion">
+   <div class ="container">
+      <ul class="collapsible popout" data-collapsible="accordion">
     <li>
       <div class="collapsible-header"><i class="material-icons"></i>Celia Cruz </div>
       <div class="collapsible-body">
@@ -169,7 +172,7 @@
     </li>
     <li>
       <div class="collapsible-header"><i class="material-icons"></i>Gloria Estefan  </div>
-      <div class="collapsible-body"><span></
+      <div class="collapsible-body">
       <div class ="container white" style="height:100vh">
 <table>
   <thead>
@@ -216,57 +219,58 @@
 </div></div>
     </li>
     <li>
-      <div class="collapsible-header"><i class="material-icons"></i>Son de Cali   </div>
+      <div class="collapsible-header"><i class="material-icons"></i>Son de Cali</div>
       <div class="collapsible-body">
-      <div class ="container white" style="height:100vh">
-<table>
-  <thead>
-    <tr>
-      
-      <th>No.Canción</th>
-      <th>Nombre de la Cancion</th>
-      <th>Escucha la cancion</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      
-      <td>Cancion 1</td>
-      <td>Qué nos pasó</td>
-      <td><a href="https://www.youtube.com/watch?v=k6_6Tzj9v3I">Escuchar</a></td>
-</tr>
-    <tr>
-      
-      <td>Cancion 2</td>
-      <td>Te amo</td>
-      <td><a href="https://www.youtube.com/watch?v=XQWw_s5z1pI">Escuchar</a></td>
-</tr>
-    <tr>
-      
-      <td>Cancion 3</td>
-      <td>Lo que te sobre</td>
-      <td><a href="https://www.youtube.com/watch?v=WF45q17afp8">Escuchar</a></td>
-</tr>
-    <tr>
-    
-      <td>Cancion 4</td>
-      <td>No quiero dormir</td>
-      <td><a href="https://www.youtube.com/watch?v=Br_Bub6mTws">Escuchar</a></td>
-</tr>
-    <tr>
-     
-      <td>Cancion 5</td>
-      <td>Y entonces</td>
-      <td><a href="https://www.youtube.com/watch?v=vbxzwVwMEwk">Escuchar</a></td>
-</tr>
-</tbody>
-</table>
-</div>
-    </div>
+       <div class ="container white" style="height:100vh">
+          <table>
+            <thead>
+              <tr>
+                
+                <th>No.Canción</th>
+                <th>Nombre de la Cancion</th>
+                <th>Escucha la cancion</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                
+                <td>Cancion 1</td>
+                <td>Qué nos pasó</td>
+                <td><a href="https://www.youtube.com/watch?v=k6_6Tzj9v3I">Escuchar</a></td>
+              </tr>
+              <tr>
+                
+                <td>Cancion 2</td>
+                <td>Te amo</td>
+                <td><a href="https://www.youtube.com/watch?v=XQWw_s5z1pI">Escuchar</a></td>
+             </tr>
+              <tr>
+                
+                <td>Cancion 3</td>
+                <td>Lo que te sobre</td>
+                <td><a href="https://www.youtube.com/watch?v=WF45q17afp8">Escuchar</a></td>
+              </tr>
+              <tr>
+              
+                <td>Cancion 4</td>
+                <td>No quiero dormir</td>
+                <td><a href="https://www.youtube.com/watch?v=Br_Bub6mTws">Escuchar</a></td>
+              </tr>
+              <tr>
+              
+                <td>Cancion 5</td>
+                <td>Y entonces</td>
+                <td><a href="https://www.youtube.com/watch?v=vbxzwVwMEwk">Escuchar</a></td>
+             </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
     </li> 
   </ul>
-     <!--JavaScript at end of body for optimized loading-->
-     <script type="text/javascript" src="../Framework/Materialize/js/materialize.min.js"></script>
+</div>
+  <script type="text/javascript" src ="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
     </body>
-</html>
+  </html>
   

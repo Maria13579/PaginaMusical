@@ -1,12 +1,13 @@
-
+<!DOCTYPE html>
 <html>
     <head>
       <!--Import Google Icon Font-->
-      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-      <!--Import materialize.css-->
-      <link type="text/css" rel="stylesheet" href="../Framework/Materialize/css/materialize.min.css"  media="screen,projection"/>
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">     
       <!--Let browser know website is optimized for mobile-->
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+     <!-- Compiled and minified CSS -->
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css">
+
     </head>
     <body>
       <nav> 
@@ -22,11 +23,12 @@
             </ul>
           </div>
         </nav>
-      <ul class="collapsible popout" data-collapsible="expandable">
+        <div class ="container">
+      <ul class="collapsible popout" data-collapsible="accordion">
           <li>
             <div class="collapsible-header active"><i class="material-icons"></i>Metalica</div>
             <div class="collapsible-body">
-              <img src="RECURSOS/r1.jpg"class="responsive-img" class="left"/>
+              
               <div class ="container white" style="height:100vh">
                 <table class = "right">
                   <thead>
@@ -72,7 +74,7 @@
          <li>
             <div class="collapsible-header"><i class="material-icons"></i>The beatles</div>
             <div class="collapsible-body">
-              <img src="RECURSOS/r2.jpg"class="responsive-img"/> 
+              
               <div class ="container white" style="height:100vh">
                <table>
                   <thead>
@@ -116,7 +118,7 @@
           <li>
             <div class="collapsible-header"><i class="material-icons"></i>Twenty One Pilots  </div>
             <div class="collapsible-body">
-              <img src="RECURSOS/r3.jpg" class="responsive-img"/> 
+           
              <div class ="container white" style="height:100vh">
                <table>
                  <thead>
@@ -160,8 +162,7 @@
           <li>
             <div class="collapsible-header"><i class="material-icons"></i>Pink Floyd</div>
             <div class="collapsible-body">
-              
-                <img src="RECURSOS/r4.jpg" class="responsive-img"/> 
+            
                 <div class ="container white" style="height:100vh">
                   <table>
                     <thead>
@@ -212,7 +213,7 @@
           <li>
             <div class="collapsible-header"><i class="material-icons"></i>The Rolling Stone  </div>
             <div class="collapsible-body">
-              <img src="RECURSOS/r5.jpg" class="responsive-img"/> 
+             
              <div class ="container white" style="height:100vh">
                <table>
                  <thead>
@@ -253,17 +254,11 @@
              </div>
             </div>
           </li>
-       </ul>
-  
-  
-            <!--JavaScript at end of body for optimized loading-->
-     
-      <script type="text/javascript" src="./Framework/Materialize/js/materialize.min.js"></script>
-      <script type="text/javascript">
-       $(document).ready(function(){
-        $('.collapsible').collapsible();
-       });       
-      </script>
+       </ul>    
+       </div> 
+            
+  <script type="text/javascript" src ="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
     </body>
   </html>
 
