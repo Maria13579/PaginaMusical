@@ -21,7 +21,7 @@
       </ul>
       </div>
    </nav>
-   <ul class="collapsible">
+   <ul class="collapsible" data-collapsible="accordion">
     <li>
       <div class="collapsible-header"><i class="material-icons"></i>Celia Cruz </div>
       <div class="collapsible-body">

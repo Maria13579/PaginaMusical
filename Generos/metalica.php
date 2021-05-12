@@ -22,9 +22,9 @@
             </ul>
           </div>
         </nav>
-      <ul class="collapsible popout" data-collapsible="accordion">
+      <ul class="collapsible popout" data-collapsible="expandable">
           <li>
-            <div class="collapsible-header"><i class="material-icons"></i>Metalica</div>
+            <div class="collapsible-header active"><i class="material-icons"></i>Metalica</div>
             <div class="collapsible-body">
               <img src="RECURSOS/r1.jpg"class="responsive-img" class="left"/>
               <div class ="container white" style="height:100vh">
@@ -255,15 +255,15 @@
           </li>
        </ul>
   
-  <script type="text/javascript">
-       $(document).ready(function(){
-    $('.collapsible').collapsible();
-  });
   
-
-  </script>
             <!--JavaScript at end of body for optimized loading-->
-      <script type="text/javascript" src="../Framework/Materialize/js/materialize.min.js"></script>
+     
+      <script type="text/javascript" src="./Framework/Materialize/js/materialize.min.js"></script>
+      <script type="text/javascript">
+       $(document).ready(function(){
+        $('.collapsible').collapsible();
+       });       
+      </script>
     </body>
   </html>
 
